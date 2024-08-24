@@ -26,4 +26,7 @@ CNN
 CNN+LSTM
 ![image](https://github.com/user-attachments/assets/bc3c2f9a-beb9-40b6-9917-2b2ccd328f3c)
 
-This research benchmarked six model pipelines for speech emotion recognition, with the pre-emphasis + CNN-LSTM model achieving the highest accuracy: 98.79% on training data and 98.57% on test data. The combination of pre-emphasis, CNN, and LSTM proved superior in performance and minimal error rates. This high-accuracy model was integrated into a user-friendly GUI for real-time emotion recognition from speech clips.
+This research benchmarked six model pipelines for speech emotion recognition, with the pre-emphasis + CNN-LSTM model achieving the highest accuracy: 99.73% on training data and 98.57% on test data. The combination of pre-emphasis, CNN, and LSTM proved superior in performance and minimal error rates. This high-accuracy model was integrated into a user-friendly GUI for real-time emotion recognition from speech clips.
+
+# GUI
+![image](https://github.com/user-attachments/assets/361fb0d7-4165-4ca8-9be4-fe8a355eb075)
