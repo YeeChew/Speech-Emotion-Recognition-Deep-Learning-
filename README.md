@@ -5,6 +5,7 @@ This project focuses on speech emotion recognition (SER) by implementing convolu
 
 # Toronto Emotional Speech Set (TESS) dataset
 [TESS](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+![image](https://github.com/user-attachments/assets/b20d5aa0-91cd-4b80-a287-186563734724)
 
 # Data Preprocessing
 Three different data preprocessing techniques are applied to the audio data:
