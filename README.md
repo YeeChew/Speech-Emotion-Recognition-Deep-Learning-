@@ -8,7 +8,6 @@ This project focuses on speech emotion recognition (SER) by implementing convolu
 
 # Data Preprocessing
 Three different data preprocessing techniques are applied to the audio data:
-
 Pre-emphasis: Enhances high-frequency components to improve feature extraction.
 Hamming Window: Reduces spectral leakage by applying a window function to the audio signal.
 Short-Time Fourier Transform (STFT): Converts the audio signal from the time domain to the frequency domain, providing a time-frequency representation
