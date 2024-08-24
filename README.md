@@ -3,6 +3,10 @@ Speech Emotion Recognition Using CNN and CNN+LSTM
 
 This project focuses on speech emotion recognition (SER) by implementing convolutional neural networks (CNN) and a hybrid model that combines CNN with long short-term memory (CNN+LSTM). The Toronto Emotional Speech Set (TESS) dataset is utilized for training and evaluation.
 
+# Toronto Emotional Speech Set (TESS) dataset
+[https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+](TESS)
+
 # Data Preprocessing
 Three different data preprocessing techniques are applied to the audio data:
 
